@@ -42,7 +42,8 @@ export const LandingPageContainer = styled.div`
       color: #33BEEF;
     }
 
-    .total-client span {
+    .total-client:after {
+      content: '+';
       color: #122541;
       font-size: 3.5rem;
     }
