@@ -1,10 +1,13 @@
 import styled from 'styled-components';
+import img from 'assets/bg.jpg'
 
 export const LandingPageContainer = styled.div`
     font-family: 'Fira Sans', sans-serif;
     position: relative;
-    background-color: #fff;
     color: #122541;
+    background: url(${img}) no-repeat no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
 
     .landing-page-container {
       display: flex;
@@ -16,7 +19,7 @@ export const LandingPageContainer = styled.div`
 
     .promotion-text {
       font-size: 3.5rem;
-      font-weight: 500;
+      font-weight: 600;
       margin-bottom: 2rem;
       margin-top: 2rem;
     }

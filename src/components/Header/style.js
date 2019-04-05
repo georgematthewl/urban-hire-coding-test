@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const HeaderContainer = styled.div`
     font-family: 'Fira Sans', sans-serif;
+
     .logo {
         width: 200px;
         height: 40px;
