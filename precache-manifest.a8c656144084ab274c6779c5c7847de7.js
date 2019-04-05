@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "f1219298de0b372ee18c",
-    "url": "/urban-hire-coding-test/static/js/main.af09a3df.chunk.js"
+    "revision": "646e58de381f2432a40b",
+    "url": "/urban-hire-coding-test/static/js/main.f4a8b4d4.chunk.js"
   },
   {
     "revision": "76b01f904f3a995a94d4",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/urban-hire-coding-test/static/media/logo.2443aeb5.svg"
   },
   {
-    "revision": "52b674c01d21f69c384dd794b74f4bf1",
+    "revision": "6df530786edc00680cc5672507a01030",
     "url": "/urban-hire-coding-test/index.html"
   }
 ];
