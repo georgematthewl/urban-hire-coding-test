@@ -5,7 +5,7 @@ export const LandingPageContainer = styled.div`
     font-family: 'Fira Sans', sans-serif;
     position: relative;
     color: #122541;
-    background: url(${img}) no-repeat no-repeat center;
+    background: url(${img}) no-repeat no-repeat center fixed;
     background-size: cover;
     min-height: 100vh;
 
