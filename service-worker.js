@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/urban-hire-coding-test/precache-manifest.ae23a56f89d80b5dd117e486ff69a00e.js"
+  "/urban-hire-coding-test/precache-manifest.9f3065061f8a0a43fe87c4cc84868cec.js"
 );
 
 workbox.clientsClaim();
