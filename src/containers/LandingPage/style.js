@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import img from 'assets/bg.jpg'
+import img from 'assets/bg.png'
 
 export const LandingPageContainer = styled.div`
     font-family: 'Fira Sans', sans-serif;
